@@ -79,11 +79,14 @@ The following analysis was carried out in the notebooks:
    git clone https://github.com/your-username/Titanic-Survival-Analysis.git
 
 2. Navigate to project directory
-    cd Titanic-Survival-Analysis
+   ```bash
+   cd Titanic-Survival-Analysis
 
-3. Install Dependencies
+4. Install Dependencies
+   ```bash
     pip install -r requirements.txt
 
-4. Open Jupyter Notebook
+6. Open Jupyter Notebook
+   ```bash
     jupyter notebook
 
